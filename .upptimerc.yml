@@ -1,4 +1,4 @@
-# Change these first
+
 owner: SangjunYou
 repo: upptime
 sites:
@@ -8,3 +8,8 @@ sites:
 status-website:
   baseUrl: upptime
   name: SangjunYou
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
