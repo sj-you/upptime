@@ -1,12 +1,12 @@
-owner: SangjunYou
+owner: sj-you
 repo: upptime
 sites:
-  - name: SangjunYou's Blog
-    url: https://sangjunyou.github.io
+  - name: sj-you's Blog
+    url: https://sj-you.github.io
 
 status-website:
   baseUrl: upptime
-  name: SangjunYou
+  name: sj-you
   navbar:
     - title: Status
       href: /
