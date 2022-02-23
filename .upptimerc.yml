@@ -5,15 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: SangjunYou's Blog
     url: https://sangjunyou.github.io
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   baseUrl: upptime
-  name: Upptime
+  name: SangjunYou
