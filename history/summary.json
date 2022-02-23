@@ -4,19 +4,19 @@
     "url": "https://sj-you.github.io",
     "icon": "https://favicons.githubusercontent.com/sj-you.github.io",
     "slug": "sj-you-s-blog",
-    "status": "down",
-    "uptime": "8.96%",
-    "uptimeDay": "8.96%",
-    "uptimeWeek": "8.96%",
-    "uptimeMonth": "8.96%",
-    "uptimeYear": "8.96%",
-    "time": 103,
-    "timeDay": 103,
-    "timeWeek": 103,
-    "timeMonth": 103,
-    "timeYear": 103,
+    "status": "up",
+    "uptime": "1.13%",
+    "uptimeDay": "1.13%",
+    "uptimeWeek": "1.13%",
+    "uptimeMonth": "1.13%",
+    "uptimeYear": "1.13%",
+    "time": 127,
+    "timeDay": 127,
+    "timeWeek": 127,
+    "timeMonth": 127,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2022-02-23": 0
+      "2022-02-23": 5
     }
   }
 ]
