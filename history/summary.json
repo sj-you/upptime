@@ -1,20 +1,22 @@
 [
   {
-    "name": "SangjunYou's Blog",
-    "url": "https://sangjunyou.github.io",
-    "icon": "https://favicons.githubusercontent.com/sangjunyou.github.io",
-    "slug": "sangjun-you-s-blog",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 178,
-    "timeWeek": 178,
-    "timeMonth": 178,
-    "timeYear": 178,
-    "dailyMinutesDown": {}
+    "name": "sj-you's Blog",
+    "url": "https://sj-you.github.io",
+    "icon": "https://favicons.githubusercontent.com/sj-you.github.io",
+    "slug": "sj-you-s-blog",
+    "status": "down",
+    "uptime": "14.87%",
+    "uptimeDay": "14.87%",
+    "uptimeWeek": "14.87%",
+    "uptimeMonth": "14.87%",
+    "uptimeYear": "14.87%",
+    "time": 103,
+    "timeDay": 103,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
+    "dailyMinutesDown": {
+      "2022-02-23": 0
+    }
   }
 ]
