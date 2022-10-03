@@ -2,7 +2,7 @@
   {
     "name": "sj-you's Blog",
     "url": "https://sj-you.github.io",
-    "icon": "https://favicons.githubusercontent.com/sj-you.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/sj-you.github.io.ico",
     "slug": "sj-you-s-blog",
     "status": "up",
     "uptime": "100.00%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 116,
-    "timeWeek": 102,
-    "timeMonth": 85,
+    "timeDay": 63,
+    "timeWeek": 104,
+    "timeMonth": 86,
     "timeYear": 100,
     "dailyMinutesDown": {}
   }
